@@ -23,7 +23,7 @@ const CTA = () => {
                   <i className="icon icon-chat-round-2 text-green"></i>
                 </div>
                 <h2 className="title gr-text-4 mb-6">
-                  Get a free consultancy from our expert right now!
+                  Entre em contato para obter mais informações 
                 </h2>
                 <p className="gr-text-8 pr-lg-7 mb-0">
                   With lots of unique blocks, you can easily build a page
@@ -42,7 +42,7 @@ const CTA = () => {
             >
               <form className="cta-form bg-white light-mode rounded-10 px-8 py-8">
                 <div className="form-group gr-text-11 font-weight-bold text-blackish-blue">
-                  <label htmlFor="ctaName">Name </label>
+                  <label htmlFor="ctaName">Nome </label>
                   <input
                     type="text"
                     className="form-control gr-text-11"
@@ -62,7 +62,7 @@ const CTA = () => {
                   />
                 </div>
                 <div className="form-group gr-text-11 font-weight-bold text-blackish-blue">
-                  <label htmlFor="ctaPhone">Phone </label>
+                  <label htmlFor="ctaPhone">Telefone </label>
                   <input
                     type="email"
                     className="form-control gr-text-11"
@@ -72,7 +72,7 @@ const CTA = () => {
                 </div>
                 <div className="form-group gr-text-11 font-weight-bold text-blackish-blue">
                   <label htmlFor="agentCount" className="pr-lg-4">
-                    Which service do you need?{" "}
+                    Seviço que você precisa{" "}
                   </label>
 
                   <Select
@@ -85,7 +85,7 @@ const CTA = () => {
                   />
                 </div>
                 <Button type="submit" className="gr-hover-y rounded-8 w-100">
-                  Get Free Consultancy
+                  Entrar em contato
                 </Button>
               </form>
             </Col>

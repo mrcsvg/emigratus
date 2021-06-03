@@ -242,7 +242,7 @@ const Header = () => {
                 </a>
               </Link>
             )}
-
+{/* 
             {gContext.header.button === "account" && (
               <div className="header-btns d-none d-xs-block  ml-auto ml-lg-3 mr-6 mr-lg-0">
                 <Link href="/signin">
@@ -258,7 +258,7 @@ const Header = () => {
                   </a>
                 </Link>
               </div>
-            )}
+            )} */}
 
             <ToggleButton
               className={`navbar-toggler btn-close-off-canvas ml-3 ${

@@ -11,7 +11,7 @@ const Newsletter = () => {
             <Col lg="6" md="10" className="pr-lg-9">
               <div className="nwsltr-text">
                 <h2 className="title gr-text-5">
-                  Subscribe to our newsletter to get latest news on your inbox.
+                  Se inscreva para receber nossas novidades
                 </h2>
               </div>
             </Col>
@@ -27,7 +27,7 @@ const Newsletter = () => {
                 </div>
                 <div className="cta-btn">
                   <Button type="submit" className="with-icon gr-hover-y">
-                    Subscribe<i className="icon icon-tail-right"></i>
+                    Inscrever<i className="icon icon-tail-right"></i>
                   </Button>
                 </div>
               </form>

@@ -1,36 +1,43 @@
 import React from "react";
-import PageWrapper from "../components/PageWrapper";
-import Hero from "../sections/landing1/Hero";
-import Services from "../sections/landing1/Services";
-import Testimonial1 from "../sections/landing1/Testimonial1";
-import Content1 from "../sections/landing1/Content1";
-import Fact from "../sections/landing1/Fact";
-import Feature from "../sections/landing1/Feature";
-import CTA1 from "../sections/landing1/CTA1";
-import CaseStudies from "../sections/landing1/CaseStudies";
-import Testimonial2 from "../sections/landing1/Testimonial2";
-import CTA2 from "../sections/landing1/CTA2";
 
-const IndexPage = () => {
+import PageWrapper from "../components/PageWrapper";
+import Hero from "../sections/landing11/Hero";
+import Fact from "../sections/landing11/Fact";
+import Services from "../sections/landing11/Services";
+import Content from "../sections/landing11/Content";
+import Alert from "../sections/landing11/Alert";
+import Testimonial from "../sections/landing11/Testimonial";
+import WhyUs from "../sections/landing11/WhyUs";
+import CTA from "../sections/landing11/CTA";
+import Newsletter from "../sections/landing11/Newsletter";
+
+const Consultation = () => {
   return (
     <>
       <PageWrapper
+        headerConfig={{
+          theme: "dark",
+          align: "left",
+          isFluid: true,
+          button: "cta", // cta, account, null
+          buttonText: "Começar",
+        }}
         footerConfig={{
-          style: "style1", //style1, style2
+          theme: "light",
         }}
       >
         <Hero />
-        <Services />
-        <Testimonial1 />
-        <Content1 />
         <Fact />
-        <Feature />
-        <CTA1 />
-        <CaseStudies />
-        <Testimonial2 />
-        <CTA2 />
+        <Services />
+        <WhyUs />
+        <Content />
+        <Alert />
+        {/* <Testimonial /> */}
+        <CTA />
+        <Newsletter />
       </PageWrapper>
     </>
   );
 };
-export default IndexPage;
+
+export default Consultation;

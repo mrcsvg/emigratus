@@ -29,19 +29,17 @@ const AboutPage = () => {
             <Row className="justify-content-center mt-md-6 pt-24 pt-lg-29">
               <Col lg="9" xl="8">
                 <div className="px-md-12 text-center mb-11 mb-lg-14">
-                  <h2 className="title gr-text-2 mb-9 mb-lg-12">Our story</h2>
+                  <h2 className="title gr-text-2 mb-9 mb-lg-12">Quem somos</h2>
                   <p className="gr-text-8 mb-0">
-                    With lots of unique blocks, you can easily build a page
-                    without coding. Build your next consultancy website within
-                    few minutes.
+                    Com um time multidisciplinar e alguns anos de experiência, somos a escolha certa para te dar segurança no processo de obtenção da cidadania
                   </p>
                 </div>
               </Col>
-              <Col xs="12">
+              {/* <Col xs="12">
                 <div className="banner-fluid-image pt-lg-9">
                   <img src={imgBanner} alt="" className="w-100" />
                 </div>
-              </Col>
+              </Col> */}
             </Row>
           </Container>
         </div>
@@ -51,29 +49,26 @@ const AboutPage = () => {
               <Col lg="6" className="mb-7 mb-lg-0">
                 <div className="pr-xl-13">
                   <h2 className="gr-text-3 mb-0">
-                    We are here to help the customers to get their success.
+                    Conte com nossa experiência e transparência 
                   </h2>
                 </div>
               </Col>
               <Col lg="6">
                 <div className="pr-xl-13">
-                  <p className="gr-text-8 mb-7 mb-lg-10">
-                    We share common trends and strategies for improving your
-                    rental income and making sure you stay in high demand of
-                    service.{" "}
+                  <p className="gr-text-8 mb-7 mb-lg-10">                                    
+                    A Emigratus nasce no intuito de organizar seu processo de cidadania. 
+                    Composta por historiadores, advogados em Direito Migratório, professores de língua estrangeira para a fase de entrevistas B1 e B2 (Itália), formamos uma equipe especializada, capaz de descomplicar seu ingresso no reconhecimento de cidadania.
+                    {" "}
                   </p>
                   <p className="gr-text-8 mb-0">
-                    With lots of unique blocks, you can easily build a page
-                    without coding. Build your next landing page. With lots of
-                    unique blocks, you can easily build a page without coding
-                    any other page.
+                    Prepare-se, nós da Emigratus temos o compromisso da transparência e, por isso, navegando em nosso site, você encontrará o melhor conteúdo explicativo para vencer a burocracia e realizar o sonho de reconhecer sua cidadania italiana. Nós faremos isso por você!
                   </p>
                 </div>
               </Col>
             </Row>
           </Container>
         </div>
-        <div className="content-section pt-14 pt-lg-27 pb-13 pb-lg-27 bg-default-2">
+        {/* <div className="content-section pt-14 pt-lg-27 pb-13 pb-lg-27 bg-default-2">
           <Container>
             <Row className="align-items-center justify-content-center">
               <Col sm="8" lg="5" xl="6" className="mb-9 mb-lg-0">
@@ -143,17 +138,15 @@ const AboutPage = () => {
               </Col>
             </Row>
           </Container>
-        </div>
+        </div> */}
         <div className="pt-13 pt-lg-24 pb-lg-24 ">
           <Container>
             <Row className="justify-content-center">
               <Col lg="9" xl="8">
                 <div className="section-title text-center px-md-12 mb-lg-17 mb-10">
-                  <h2 className="gr-text-3 mb-7 mb-lg-8">Meet our team</h2>
+                  <h2 className="gr-text-3 mb-7 mb-lg-8">Conheça nosso time</h2>
                   <p className="gr-text-8 mb-0">
-                    With lots of unique blocks, you can easily build a page
-                    without coding. Build your next consultancy website within
-                    few minutes.
+                    Experiência faz a diferença em um processo que certamente mudará sua vida. Conheça nossos especialistas:
                   </p>
                 </div>
               </Col>

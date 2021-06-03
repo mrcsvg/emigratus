@@ -16,11 +16,10 @@ const Content = () => {
             <Col xl="6" lg="8" sm="10">
               <div className="section-title text-center mb-12 mb-lg-17">
                 <h2 className="title gr-text-4 mb-7">
-                  Why you should choose us?
+                  Como funciona?
                 </h2>
                 <p className="gr-text-8 px-lg-7 px-xl-0">
-                  With lots of unique blocks, you can easily build a page
-                  without coding. Build your next landing page.
+                  Se você já chegou até aqui, de o proximo passo rumo a sua cidadania Europeia
                 </p>
               </div>
             </Col>
@@ -58,7 +57,7 @@ const Content = () => {
                         </span>
                       </div>
                       <div className="media-body">
-                        <h3 className="w-title mb-5 gr-text-7">Easy Booking</h3>
+                        <h3 className="w-title mb-5 gr-text-7">Entre em contato</h3>
                         <p className="gr-text-9 mb-0">
                           With lots of unique blocks, you can easily build a
                           page without coding.{" "}
@@ -80,7 +79,7 @@ const Content = () => {
                       </div>
                       <div className="media-body">
                         <h3 className="w-title mb-5 gr-text-7">
-                          Free Expert Opinion
+                          Nós analisamos seu caso
                         </h3>
                         <p className="gr-text-9 mb-0">
                           With lots of unique blocks, you can easily build a
@@ -103,7 +102,7 @@ const Content = () => {
                       </div>
                       <div className="media-body">
                         <h3 className="w-title mb-5 gr-text-7">
-                          Get Your Results
+                          Te damos um feedback e orientamos nos proximos passos
                         </h3>
                         <p className="gr-text-9 mb-0">
                           With lots of unique blocks, you can easily build a

@@ -17,11 +17,10 @@ const Services = () => {
             <Col xl="6" lg="8" sm="10">
               <div className="section-title text-center mb-11 mb-lg-20">
                 <h2 className="title gr-text-4 mb-7">
-                  Services we offer for you
+                  No que podemos te ajudar
                 </h2>
                 <p className="gr-text-8 px-lg-7 px-xl-0">
-                  With lots of unique blocks, you can easily build a page
-                  without coding. Build your next landing page.
+                  Lorem ipsem ajudar lalalal
                 </p>
               </div>
             </Col>
@@ -44,7 +43,7 @@ const Services = () => {
                 <div className="card-body bg-white rounded-bottom-10 px-7 py-6">
                   <Link href="/#">
                     <a className="card-title gr-text-9 text-blackish-blue card-btn-link with-icon mb-0">
-                      Digital Marketing{" "}
+                      Cidadania Italiana{" "}
                       <i className="icon icon-tail-right font-weight-bold"></i>
                     </a>
                   </Link>
@@ -68,7 +67,7 @@ const Services = () => {
                 <div className="card-body bg-white rounded-bottom-10 px-7 py-6">
                   <Link href="/#">
                     <a className="card-title gr-text-9 text-blackish-blue card-btn-link with-icon mb-0">
-                      Content Writing{" "}
+                    Pesquisa Genealógica{" "}
                       <i className="icon icon-tail-right font-weight-bold"></i>
                     </a>
                   </Link>
@@ -92,7 +91,7 @@ const Services = () => {
                 <div className="card-body bg-white rounded-bottom-10 px-7 py-6">
                   <Link href="/#">
                     <a className="card-title gr-text-9 text-blackish-blue card-btn-link with-icon mb-0">
-                      Graphic Design{" "}
+                      Exigências legais{" "}
                       <i className="icon icon-tail-right font-weight-bold"></i>
                     </a>
                   </Link>
@@ -116,7 +115,7 @@ const Services = () => {
                 <div className="card-body bg-white rounded-bottom-10 px-7 py-6">
                   <Link href="/#">
                     <a className="card-title gr-text-9 text-blackish-blue card-btn-link with-icon mb-0">
-                      SEO for Business{" "}
+                      Visto{" "}
                       <i className="icon icon-tail-right font-weight-bold"></i>
                     </a>
                   </Link>
