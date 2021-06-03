@@ -18,9 +18,9 @@ const CidadaniaDescendencia = () => {
               <Col xl="8" lg="9">
                 <div className="px-md-13 text-center">
                   <h2 className="title gr-text-2 mb-8 mb-lg-10">
-                    Cidadania por matrimonio
+                    Cidadania por matrimônio
                   </h2>
-                  <p className="gr-text-7 mb-0 mb-lg-13">Como obter sua cidadania por matrimonio</p>
+                  <p className="gr-text-7 mb-0 mb-lg-13">Como obter sua cidadania por matrimônio</p>
                 </div>
               </Col>
             </Row>

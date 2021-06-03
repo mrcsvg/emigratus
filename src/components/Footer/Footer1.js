@@ -5,7 +5,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import GlobalContext from "../../context/GlobalContext";
 import Logo from "../Logo";
 
-const Footer = () => {
+import footerItems from "./footerItems"
+
+const Footer = ({data}) => {
   const gContext = useContext(GlobalContext);
 
   const linkClassName =
@@ -35,10 +37,13 @@ const Footer = () => {
                 className="footer-logo mb-11"
               />
               <p className="gr-text-11">
-                With lots of unique blocks, you can easily build a page without
+                XXXWith lots of unique blocks, you can easily build a page without
                 coding. Build your next landing page.
               </p>
               <ul className="social-icons py-7 list-unstyled mb-7 mb-lg-0">
+
+                
+
                 <li className="mr-2">
                   <Link href="/">
                     <a className={iconClassName}>
@@ -73,7 +78,7 @@ const Footer = () => {
               <Row>
                 <Col xs="6" lg="3">
                   <div className="single-footer mb-13 mb-lg-9">
-                    <p className="footer-title gr-text-11 mb-7">Company</p>
+                    <p className="footer-title gr-text-11 mb-7">xCompany</p>
                     <ul className="footer-list list-unstyled gr-text-9">
                       <li className="py-2">
                         <Link href="/">

@@ -76,12 +76,12 @@ export const menuItems = [
 
 
   {
-    name: "https://uxtheme.net/product-support/",
+    name: "/",
     label: "Blog",
     isExternal: true,
   },
   {
-    name: "https://uxtheme.net/product-support/",
+    name: "/",
     label: "Contatos",
     isExternal: true,
   },
