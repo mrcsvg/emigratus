@@ -77,7 +77,7 @@ const CidadaniaDescendencia = () => {
                             height: 9px;
                           `}
                         ></i>
-                        A cidadania por matrimônio para casais homossexuais segue as mesmas regras acima, com a diferença de que este casamento é chamado de Unione Civile.
+                        A cidadania por matrimônio para casais homossexuais segue as mesmas regras acima, com a diferença de que este casamento é chamado de <i>Unione Civile.</i>
                       </li>
 
                       <li className="mt-7">

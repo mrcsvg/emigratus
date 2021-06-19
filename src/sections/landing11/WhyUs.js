@@ -43,8 +43,7 @@ const WhyUs = () => (
                       Time dedicado e multidisciplinar
                     </h3>
                     <p className="gr-text-9 mb-0 pr-11">
-                      With lots of unique blocks, you can easily build a page
-                      without coding. Build your next landing page.
+                      Profissionais formadas em diferentes áreas para tornar o processo mais completo!
                     </p>
                   </div>
                 </div>
@@ -64,8 +63,7 @@ const WhyUs = () => (
                   <div className="widget-text">
                     <h3 className="title gr-text-7 mb-6">Tudo em um só lugar</h3>
                     <p className="gr-text-9 mb-0 pr-11">
-                      With lots of unique blocks, you can easily build a page
-                      without coding. Build your next landing page.
+                      As pessoas que você precisa para a sua cidadania estão todas aqui!
                     </p>
                   </div>
                 </div>
@@ -87,8 +85,7 @@ const WhyUs = () => (
                       Comunicação fácil, rápida e transparente
                     </h3>
                     <p className="gr-text-9 mb-0 pr-11">
-                      With lots of unique blocks, you can easily build a page
-                      without coding. Build your next landing page.
+                      Linguagem simples e clara para descomplicar a burocracia!
                     </p>
                   </div>
                 </div>
@@ -110,8 +107,7 @@ const WhyUs = () => (
                       Fazemos você econimizar muito tempo!
                     </h3>
                     <p className="gr-text-9 mb-0 pr-11">
-                      With lots of unique blocks, you can easily build a page
-                      without coding. Build your next landing page.
+                      Nosso objetivo é esclarecer dúvidas e auxiliar nesse processo que pode ser tão complicado!
                     </p>
                   </div>
                 </div>

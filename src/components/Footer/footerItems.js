@@ -4,7 +4,7 @@ export const footerItems = [
         "items" : [
             {"name": "cidadania-matrimonio", "label": "Por matrimônio", "url" : "cidadania-matrimonio"},
             {"name": "cidadania-descendencia", "label": "Por decendência", "url" : "cidadania-descendencia"},
-            {"name": "pesquisa-genealogica", "label": "Pesquisa genealogica", "url" : "pesquisa-genealogica"},
+            {"name": "pesquisa-genealogica", "label": "Pesquisa genealógica", "url" : "pesquisa-genealogica"},
             {"name": "exigencias-legais", "label": "Exigências legais", "url" : "exigencias-legais"}
         ]
     } ,
