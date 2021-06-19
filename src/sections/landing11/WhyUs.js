@@ -18,7 +18,7 @@ const WhyUs = () => (
                 Por que nos escolher
               </h4>
               <h2 className="title gr-text-4">
-                Cidadania é coisa séria. Experiência faz toda a diferença.
+                Cidadania é coisa séria. Experiência faz toda a diferença!
               </h2>
             </div>
           </Col>

@@ -7,7 +7,7 @@ export const menuItems = [
     name: "pages",
     label: "Cidadania Italiana",
     items: [
-      { name: "cidadania-matrimonio", label: "Por matrimonio" },
+      { name: "cidadania-matrimonio", label: "Por matrimônio" },
       { name: "cidadania-descendencia", label: "Por descendência" },
       { name: "pesquisa-genealogica", label: "Pesquisa genealógica" },
       { name: "exigencias-legais", label: "Exigências legais" },

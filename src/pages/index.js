@@ -27,7 +27,7 @@ const Consultation = () => {
         }}
       >
         <Hero />
-        <Fact />
+        {/* <Fact /> */}
         <Services />
         <WhyUs />
         <Content />

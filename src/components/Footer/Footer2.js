@@ -82,7 +82,7 @@ const Footer = () => {
                         className={`gr-text-9 font-weight-bold hover-underline active ${contactClassName}`}
                         href="mailto:support@grayic.com"
                       >
-                        xxxx@gxxxx.com
+                        assessoria@emigratus.com
                       </a>
                     </li>
                     <li className="py-2">

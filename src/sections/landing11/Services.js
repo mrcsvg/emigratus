@@ -17,10 +17,10 @@ const Services = () => {
             <Col xl="6" lg="8" sm="10">
               <div className="section-title text-center mb-11 mb-lg-20">
                 <h2 className="title gr-text-4 mb-7">
-                  No que podemos te ajudar
+                  No que podemos te ajudar:
                 </h2>
                 <p className="gr-text-8 px-lg-7 px-xl-0">
-                  Lorem ipsem ajudar lalalal
+                  Confira abaixo alguns de nossos serviços
                 </p>
               </div>
             </Col>

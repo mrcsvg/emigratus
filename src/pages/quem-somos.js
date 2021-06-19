@@ -31,7 +31,7 @@ const AboutPage = () => {
                 <div className="px-md-12 text-center mb-11 mb-lg-14">
                   <h2 className="title gr-text-2 mb-9 mb-lg-12">Quem somos</h2>
                   <p className="gr-text-8 mb-0">
-                    Com um time multidisciplinar e alguns anos de experiência, somos a escolha certa para te dar segurança no processo de obtenção da cidadania
+                    Com um time multidisciplinar e anos de experiência, somos a escolha certa para te dar segurança no processo de obtenção da cidadania
                   </p>
                 </div>
               </Col>
@@ -152,26 +152,16 @@ const AboutPage = () => {
               </Col>
             </Row>
             <Row className="justify-content-left mb-lg-n15 mb-0">
-              <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
-                <div className="team-card">
-                  <div className="card-image">
-                    <img src={imgT1} alt="" className="w-100" />
-                  </div>
-                  <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Joe Bridges</h3>
-                    <p className="gr-text-9 mb-0 line-height-1">Founder</p>
-                  </div>
-                </div>
-              </Col>
+
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
                     <img src={imgT2} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Jeffrey Walters</h3>
+                    <h3 className="gr-text-7 mb-2">Katya Nolasco</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
-                      Cheif Executive Officer
+                      Advogada especializada em Direito Migratório
                     </p>
                   </div>
                 </div>
@@ -182,35 +172,23 @@ const AboutPage = () => {
                     <img src={imgT3} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Jason Reed</h3>
+                    <h3 className="gr-text-7 mb-2">Marcela Gomes Batista</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
-                      Chief Technology Officer
+                      Professora de Italiano e especialista em Cidadania Italiana
                     </p>
                   </div>
                 </div>
               </Col>
-              <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
-                <div className="team-card">
-                  <div className="card-image">
-                    <img src={imgT4} alt="" className="w-100" />
-                  </div>
-                  <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Nellie Padilla</h3>
-                    <p className="gr-text-9 mb-0 line-height-1">
-                      Creative Director
-                    </p>
-                  </div>
-                </div>
-              </Col>
+ 
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
                     <img src={imgT5} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Dean Bell</h3>
+                    <h3 className="gr-text-7 mb-2">Daniella Talarico</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
-                      Lead Programmer
+                      Historiadora especializada em pesquisa genealógica
                     </p>
                   </div>
                 </div>
@@ -221,25 +199,15 @@ const AboutPage = () => {
                     <img src={imgT6} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Pearl Brooks</h3>
+                    <h3 className="gr-text-7 mb-2">Jéssica</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
-                      Digital Marketer
+                      Advogada especializada em Direito Migratório
                     </p>
                   </div>
                 </div>
               </Col>
-              <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
-                <div className="team-card">
-                  <div className="card-image">
-                    <img src={imgT7} alt="" className="w-100" />
-                  </div>
-                  <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Isaiah Griffin</h3>
-                    <p className="gr-text-9 mb-0 line-height-1">UX Designer</p>
-                  </div>
-                </div>
-              </Col>
-              <Col
+
+              {/* <Col
                 lg="3"
                 md="4"
                 xs="6"
@@ -258,7 +226,7 @@ const AboutPage = () => {
                     <i className="icon icon-tail-right font-weight-bold"></i>
                   </a>
                 </div>
-              </Col>
+              </Col> */}
             </Row>
           </Container>
         </div>

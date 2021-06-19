@@ -32,6 +32,9 @@ const CTA = () => {
                 </p>
               </div>
             </Col>
+
+{/* 
+            
             <Col
               xl="4"
               lg="5"
@@ -88,7 +91,7 @@ const CTA = () => {
                   Entrar em contato
                 </Button>
               </form>
-            </Col>
+            </Col> */}
           </Row>
         </Container>
       </div>

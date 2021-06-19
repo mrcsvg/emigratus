@@ -45,7 +45,7 @@ const CidadaniaDescendencia = () => {
                       Demais casos
                   </h4>
                   <p className="gr-text-9 mb-0">
-                    Todos os homens e as demais mulheres casados com cônjuge italiano devem requerer à Naturalização por Matrimônio e esse processo é feito pelo Ministero dell’Interno. Para requerer à Naturalização deve-se preencher um dos seguintes requisitos:
+                    Todos os homens e as demais mulheres casados com cônjuge italiano devem requerer à Naturalização por Matrimônio e esse processo é feito pelo <i>Ministero dell’Interno</i>. Para requerer à Naturalização deve-se preencher um dos seguintes requisitos:
                       <ul className="list-unstyled">
                       <li className="mt-7">
                         <i
@@ -66,7 +66,18 @@ const CidadaniaDescendencia = () => {
                             height: 9px;
                           `}
                         ></i>
-                        Caso o casal não resida em território italiano, deve-se esperar 3 anos a partir da data do casamento.
+                        Caso o casal não resida em território italiano, deve-se esperar 3 anos a partir da data do casamento para dar entrada no processo.
+                      </li>
+
+                      <li className="mt-7">
+                        <i
+                          className="rounded-circle bg-dark d-inline-block mr-5"
+                          css={`
+                            width: 9px;
+                            height: 9px;
+                          `}
+                        ></i>
+                        A cidadania por matrimônio para casais homossexuais segue as mesmas regras acima, com a diferença de que este casamento é chamado de Unione Civile.
                       </li>
 
                       <li className="mt-7">
