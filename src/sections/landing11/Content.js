@@ -19,7 +19,7 @@ const Content = () => {
                   Como funciona?
                 </h2>
                 <p className="gr-text-8 px-lg-7 px-xl-0">
-                  Se você já chegou até aqui, de o próximo passo rumo a sua cidadania Europeia
+                  Se você já chegou até aqui, dê o próximo passo rumo a sua cidadania Europeia
                 </p>
               </div>
             </Col>
