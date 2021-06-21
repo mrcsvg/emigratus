@@ -19,7 +19,7 @@ const Content = () => {
                   Como funciona?
                 </h2>
                 <p className="gr-text-8 px-lg-7 px-xl-0">
-                  Se você já chegou até aqui, de o proximo passo rumo a sua cidadania Europeia
+                  Se você já chegou até aqui, de o próximo passo rumo a sua cidadania Europeia
                 </p>
               </div>
             </Col>
@@ -103,7 +103,7 @@ const Content = () => {
                           Feedback
                         </h3>
                         <p className="gr-text-9 mb-0">
-                          Após toda a análise te damos um feedback e orientamos nos proximos passos{" "}
+                          Após toda a análise te damos um feedback e orientamos nos próximos passos{" "}
                         </p>
                       </div>
                     </div>

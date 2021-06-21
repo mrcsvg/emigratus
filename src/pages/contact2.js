@@ -16,11 +16,9 @@ const Contact = () => {
             <Row className="justify-content-center pt-5">
               <Col lg="9" xl="8">
                 <div className="px-md-15 text-center">
-                  <h2 className="title gr-text-2 mb-9">Contact us</h2>
+                  <h2 className="title gr-text-2 mb-9">Entre em contato</h2>
                   <p className="gr-text-8 mb-13">
-                    With lots of unique blocks, you can easily build a page
-                    without coding. Build your next consultancy website within
-                    few minutes.
+                    Escolha uma das opções abaixo para entrar contato.
                   </p>
                 </div>
               </Col>
@@ -38,10 +36,10 @@ const Contact = () => {
                         <i className="icon icon-phone-2"></i>
                       </div>
                       <div className="widget-text">
-                        <h3 className="gr-text-6 mb-5">Call us</h3>
+                        <h3 className="gr-text-6 mb-5">Telefones</h3>
                         <p className="gr-text-7 mb-0">
-                          +1-940-394-2948 <br />
-                          +1-389-385-3807
+                          +55 (31) 9 9459 2662 <br />
+                          +55 (31) 9 9187 8595
                         </p>
                       </div>
                     </div>
@@ -52,16 +50,16 @@ const Contact = () => {
                         <i className="icon icon-email-83"></i>
                       </div>
                       <div className="widget-text">
-                        <h3 className="gr-text-6 mb-5">Email us</h3>
+                        <h3 className="gr-text-6 mb-5">Email</h3>
                         <p className="gr-text-7 mb-0">
-                          support@grayic.com
-                          <br />
-                          contact@grayic.com
+                          assessoria@emigratus.com
+                          {/* <br />
+                          contact@grayic.com */}
                         </p>
                       </div>
                     </div>
                   </Col>
-                  <Col md="5" lg="4" className="mb-13">
+                  {/* <Col md="5" lg="4" className="mb-13">
                     <div className="single-contact-widget d-flex">
                       <div className="widget-icon circle-sm-2 bg-white gr-text-6 text-primary mr-7">
                         <i className="icon icon-pin-3-2"></i>
@@ -75,9 +73,10 @@ const Contact = () => {
                         </p>
                       </div>
                     </div>
-                  </Col>
+                  </Col> */}
                 </Row>
               </Col>
+{/* 
               <Col xs="12">
                 <div className="login-form bg-white border-gray-3 px-8 pt-8 pb-9 px-sm-11 py-sm-11 shadow-1 rounded-10">
                   <form
@@ -86,7 +85,7 @@ const Contact = () => {
                     data-netlify="true"
                     data-netlify-honeypot="bot-field"
                   >
-                    {/* You still need to add the hidden input with the form name to your JSX form */}
+                 
                     <input type="hidden" name="form-name" value="contact2" />
                     <Row>
                       <Col md="6">
@@ -191,6 +190,8 @@ const Contact = () => {
                   </form>
                 </div>
               </Col>
+             */}
+            
             </Row>
           </Container>
         </div>

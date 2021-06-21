@@ -75,14 +75,13 @@ export const menuItems = [
   },
 
 
+  // {
+  //   name: "/",
+  //   label: "Blog",
+  //   isExternal: true,
+  // },
   {
-    name: "/",
-    label: "Blog",
-    isExternal: true,
-  },
-  {
-    name: "/",
+    name: "contact2",
     label: "Contatos",
-    isExternal: true,
   },
 ];

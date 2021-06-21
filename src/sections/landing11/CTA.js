@@ -26,9 +26,9 @@ const CTA = () => {
                   Entre em contato para obter mais informações 
                 </h2>
                 <p className="gr-text-8 pr-lg-7 mb-0">
-                  With lots of unique blocks, you can easily build a page
-                  without coding. Build your next landing page so quickly with
-                  Albino.
+                  Veja como entrar em contato através <a href="/contact2">desta página</a> e nos conte como podemos ajudar.
+
+                  
                 </p>
               </div>
             </Col>

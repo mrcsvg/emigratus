@@ -90,7 +90,8 @@ const Footer = () => {
                         className={`gr-text-9 font-weight-bold hover-underline active ${contactClassName}`}
                         href="tel:+55 (31) 99999999999"
                       >
-                        +55 (31) 99999999999
+                          +55 (31) 9 9459 2662 <br />
+                          +55 (31) 9 9187 8595
                       </a>
                     </li>
                   </ul>
@@ -114,6 +115,8 @@ const Footer = () => {
                   ></i>
                 </p>
               </Col>
+
+{/* 
               <Col lg="6" className="text-center text-lg-right">
                 <ul className="social-icons list-unstyled mb-0">
                   <li className="ml-7">
@@ -145,7 +148,10 @@ const Footer = () => {
                     </Link>
                   </li>
                 </ul>
-              </Col>
+              </Col> */}
+
+
+
             </Row>
           </div>
         </Container>
