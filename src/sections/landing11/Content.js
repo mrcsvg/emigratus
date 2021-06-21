@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 
 import { Container, Row, Col } from "react-bootstrap";
 import GlobalContext from "../../context/GlobalContext";
-import imgC from "../../assets/image/l2/jpg/l2-content2-img.jpg";
+import imgC from "../../assets/image/l2/jpg/italy.jpg";
 
 const Content = () => {
   const gContext = useContext(GlobalContext);
@@ -28,7 +28,7 @@ const Content = () => {
             <Col lg="6">
               <div className="content-video-thumb rounded-8 gr-hover-shadow-2">
                 <img className="w-100 rounded-8" src={imgC} alt="" />
-                <a
+                {/* <a
                   className="video-play-trigger circle-xl bg-white gr-abs-center gr-abs-hover-y focus-reset"
                   tabIndex="-1"
                   href="/#"
@@ -38,7 +38,7 @@ const Content = () => {
                   }}
                 >
                   <i className="icon icon-triangle-right-17-2 text-green"></i>
-                </a>
+                </a> */}
               </div>
             </Col>
             <Col lg="5">
@@ -57,10 +57,9 @@ const Content = () => {
                         </span>
                       </div>
                       <div className="media-body">
-                        <h3 className="w-title mb-5 gr-text-7">Entre em contato</h3>
+                        <h3 className="w-title mb-5 gr-text-7">Contato</h3>
                         <p className="gr-text-9 mb-0">
-                          With lots of unique blocks, you can easily build a
-                          page without coding.{" "}
+                          Entre em contato através de nosso WhatsApp ou de nosso e-mail{" "}
                         </p>
                       </div>
                     </div>
@@ -79,11 +78,10 @@ const Content = () => {
                       </div>
                       <div className="media-body">
                         <h3 className="w-title mb-5 gr-text-7">
-                          Nós analisamos seu caso
+                          Análise
                         </h3>
                         <p className="gr-text-9 mb-0">
-                          With lots of unique blocks, you can easily build a
-                          page without coding.{" "}
+                          Depois de obter algumas informações básicas, analisamos seu caso.{" "}
                         </p>
                       </div>
                     </div>
@@ -102,11 +100,10 @@ const Content = () => {
                       </div>
                       <div className="media-body">
                         <h3 className="w-title mb-5 gr-text-7">
-                          Te damos um feedback e orientamos nos proximos passos
+                          Feedback
                         </h3>
                         <p className="gr-text-9 mb-0">
-                          With lots of unique blocks, you can easily build a
-                          page without coding.{" "}
+                          Após toda a análise te damos um feedback e orientamos nos proximos passos{" "}
                         </p>
                       </div>
                     </div>

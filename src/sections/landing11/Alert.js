@@ -16,7 +16,7 @@ const Alert = () => {
                   Atenção
                 </span>
                 <span className="alert-text gr-text-9 text-white">
-                  Os processos de cidadania podem demorar alguns anos para serem concluídos e ano após ano mais Brasileiros embarcam nessa jornada. Quanto antes você iniciar mais rápido vai obter sua cidadania{" "}
+                Os processos de cidadania podem demorar alguns anos para serem concluídos e, ano após ano, mais Brasileiros embarcam nessa jornada. Quanto antes você iniciar, mais rápido vai obter sua cidadania. Venha conosco!{" "}
                   {/* <Link href="/#">
                     <a className="action-link text-white gr-text-underline">
                       .

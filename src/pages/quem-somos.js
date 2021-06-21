@@ -156,7 +156,7 @@ const AboutPage = () => {
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
-                    <img src={imgT2} alt="" className="w-100" />
+                    {/* <img src={imgT2} alt="" className="w-100" /> */}
                   </div>
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 mb-2">Katya Nolasco</h3>
@@ -169,7 +169,7 @@ const AboutPage = () => {
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
-                    <img src={imgT3} alt="" className="w-100" />
+                    {/* <img src={imgT3} alt="" className="w-100" /> */}
                   </div>
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 mb-2">Marcela Gomes Batista</h3>
@@ -183,7 +183,7 @@ const AboutPage = () => {
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
-                    <img src={imgT5} alt="" className="w-100" />
+                    {/* <img src={imgT5} alt="" className="w-100" /> */}
                   </div>
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 mb-2">Daniella Talarico</h3>
@@ -196,7 +196,7 @@ const AboutPage = () => {
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
-                    <img src={imgT6} alt="" className="w-100" />
+                    {/* <img src={imgT6} alt="" className="w-100" /> */}
                   </div>
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 mb-2">Jéssica</h3>
