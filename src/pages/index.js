@@ -34,7 +34,7 @@ const Consultation = () => {
         <Alert />
         {/* <Testimonial /> */}
         <CTA />
-        <Newsletter />
+        {/* <Newsletter /> */}
       </PageWrapper>
     </>
   );
