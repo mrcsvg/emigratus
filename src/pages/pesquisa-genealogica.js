@@ -50,7 +50,7 @@ const PesquisaGenealogica = () => {
                   <p className="gr-text-9 mb-9">
                     Tem dúvidas sobre este processo o processo mais indicado para você? Entre em contato conosco!  
                   </p>
-                  <Link href="/">
+                  <Link href="/contact2">
                     <a className="btn btn-primary mt-3 mt-lg-10">
                       Entre em contato
                     </a>

@@ -78,7 +78,7 @@ const PesquisaGenealogica = () => {
                   <p className="gr-text-9 mb-9">
                   Nós fazemos para você! Entre em contato conosco para um orçamento.
                   </p>
-                  <Link href="/">
+                  <Link href="/contact2">
                     <a className="btn btn-primary mt-3 mt-lg-10">
                       Entre em contato
                     </a>
