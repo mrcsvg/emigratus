@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
+import imgBanner from "../assets/image/inner/banners/descendencia.jpg";
 
 const CidadaniaDescendencia = () => {
   return (
@@ -24,6 +25,13 @@ const CidadaniaDescendencia = () => {
                 </div>
               </Col>
             </Row>
+
+            <Col xs="12">
+                <div className="banner-fluid-image pt-lg-9">
+                  <img src={imgBanner} alt="" className="w-100" />
+                </div>
+              </Col>
+
           </Container>
         </div>
 
@@ -70,7 +78,7 @@ const CidadaniaDescendencia = () => {
                   <p className="gr-text-9 mb-9">
                     Tem dúvidas sobre qual o processo mais indicado para você? Entre em contato conosco!  
                   </p>
-                  <Link href="/">
+                  <Link href="/contact2">
                     <a className="btn btn-primary mt-3 mt-lg-10">
                       Entre em contato
                     </a>

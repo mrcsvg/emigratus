@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
+import imgBanner from "../assets/image/inner/banners/exigencias.jpg";
 
 const PesquisaGenealogica = () => {
   return (
@@ -24,6 +25,14 @@ const PesquisaGenealogica = () => {
                 </div>
               </Col>
             </Row>
+
+              <Col xs="12">
+                <div className="banner-fluid-image pt-lg-9">
+                  <img src={imgBanner} alt="" className="w-100" />
+                </div>
+              </Col>
+
+
           </Container>
         </div>
 

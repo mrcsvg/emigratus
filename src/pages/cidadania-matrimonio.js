@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
+import imgBanner from "../assets/image/inner/banners/matrimonio.jpg";
 
 const CidadaniaDescendencia = () => {
   return (
@@ -23,9 +24,18 @@ const CidadaniaDescendencia = () => {
                   <p className="gr-text-7 mb-0 mb-lg-13">Como obter sua cidadania por matrimônio</p>
                 </div>
               </Col>
+
             </Row>
+
+            <Col xs="12">
+                <div className="banner-fluid-image pt-lg-9">
+                  <img src={imgBanner} alt="" className="w-100" />
+                </div>
+              </Col>
+            
           </Container>
         </div>
+
 
         <div className="main-block pb-6 pb-lg-17 bg-default-6">
           <Container>
@@ -105,7 +115,7 @@ const CidadaniaDescendencia = () => {
                   <p className="gr-text-9 mb-9">
                     Após o requerimento, o processo pode demorar até quatro anos. Tem dúvidas sobre a Cidadania por Matrimônio? Entre em contato conosco!
                   </p>
-                  <Link href="/">
+                  <Link href="/contact2">
                     <a className="btn btn-primary mt-3 mt-lg-10">
                       Entre em contato
                     </a>
