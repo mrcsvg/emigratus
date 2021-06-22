@@ -34,10 +34,13 @@ const Hero = () => {
                   Obtenha maiores chances de alcançar esse objetivo contando com nosso time multidisciplinar de especialistas.
                 </p>
                 <div className="hero-btns mt-10">
+
+                  <a href="#saiba-mais">
                   <Button className="with-icon gr-hover-y">
                     Saiba mais
                     <i className="icon icon-tail-right font-weight-bold"></i>
                   </Button>
+                  </a>
                 </div>
               </div>
             </Col>

@@ -1056,6 +1056,7 @@ icons
 
 .icon-menu-34::before {
     content: "\eae6";
+    color: black !important;
 }
 
 .icon-menu-dots-2::before {

@@ -59,7 +59,7 @@ const Content = () => {
                       <div className="media-body">
                         <h3 className="w-title mb-5 gr-text-7">Contato</h3>
                         <p className="gr-text-9 mb-0">
-                          Entre em contato através de nosso WhatsApp ou de nosso e-mail{" "}
+                          Entre em contato através de nosso WhatsApp ou de nosso e-mail.{" "}
                         </p>
                       </div>
                     </div>
@@ -103,7 +103,7 @@ const Content = () => {
                           Feedback
                         </h3>
                         <p className="gr-text-9 mb-0">
-                          Após toda a análise te damos um feedback e orientamos nos próximos passos{" "}
+                          Após toda a análise te damos um feedback e orientamos nos próximos passos.{" "}
                         </p>
                       </div>
                     </div>

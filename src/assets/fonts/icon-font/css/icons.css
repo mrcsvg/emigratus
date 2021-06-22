@@ -281,6 +281,11 @@
   content: "\ea4c";
 }
 
+.icon-menu-34-blck::before {
+  content: "\ea4c";
+  color: black;
+}
+
 .icon-menu-left-2::before {
   content: "\ea4d";
 }

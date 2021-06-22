@@ -41,6 +41,11 @@ const ToggleButton = styled.button`
     dark ? theme.colors.lightShade : theme.colors.heading}!important;
   border-color: ${({ dark, theme }) =>
     dark ? theme.colors.lightShade : theme.colors.heading}!important;
+
+  border-width ${({ dark, theme }) =>
+    dark ? `medium` : `thin`}!important;
+
+
 `;
 
 const Header = () => {
