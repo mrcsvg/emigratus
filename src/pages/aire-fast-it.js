@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
-import imgBanner from "../assets/image/inner/banners/exigencias.jpg";
+import imgBanner from "../assets/image/inner/banners/aire.jpg";
 
 const PesquisaGenealogica = () => {
   return (
