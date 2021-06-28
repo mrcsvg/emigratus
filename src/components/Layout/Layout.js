@@ -103,7 +103,7 @@ const Layout = ({ children, pageContext }) => {
                 gtag('js', new Date());
               
                 gtag('config', 'G-LF3YR77RVH');
-              });
+           
             `,
               }}
             />
@@ -154,7 +154,7 @@ const Layout = ({ children, pageContext }) => {
                 gtag('js', new Date());
               
                 gtag('config', 'G-LF3YR77RVH');
-              });
+    
             `,
               }}
             />
