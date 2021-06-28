@@ -2,10 +2,10 @@ import React from "react";
 import Link from "next/link";
 import { Container, Row, Col } from "react-bootstrap";
 
-import imgS1 from "../../assets/image/l2/jpg/l2-service-img1.jpg";
-import imgS2 from "../../assets/image/l2/jpg/l2-service-img2.jpg";
-import imgS3 from "../../assets/image/l2/jpg/l2-service-img3.jpg";
-import imgS4 from "../../assets/image/l2/jpg/l2-service-img4.jpg";
+import imgS1 from "../../assets/image/l2-service-img1.jpeg";
+import imgS2 from "../../assets/image/l2-service-img2.jpeg";
+import imgS3 from "../../assets/image/l2-service-img3.jpeg";
+import imgS4 from "../../assets/image/l2-service-img4.jpeg";
 
 const Services = () => {
   return (

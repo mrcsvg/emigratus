@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 
 import { Container, Row, Col } from "react-bootstrap";
 import GlobalContext from "../../context/GlobalContext";
-import imgC from "../../assets/image/l2/jpg/italy.jpg";
+import imgC from "../../assets/image/italy.jpeg";
 
 const Content = () => {
   const gContext = useContext(GlobalContext);

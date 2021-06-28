@@ -2,9 +2,11 @@ import React from "react";
 
 import { Container, Row, Col, Button } from "react-bootstrap";
 
-import imgH from "../../assets/image/l2/jpg/l2-hero-bg.jpg";
 
-import imgEurope from "../../assets/image/l2/jpg/europe.jpg";
+
+import imgEurope from "../../assets/image/europe.jpeg";
+
+
 
 const Hero = () => {
   return (
