@@ -140,6 +140,26 @@ const Layout = ({ children, pageContext }) => {
           <Head>
             <title>Emigratus</title>
             <link rel="icon" type="image/png" href={imgFavicon} />
+
+            <meta name="Description" content="Cidadania europeia descomplicada." />
+            <link rel="icon" type="image/png" href={imgFavicon} />
+
+            {/* Global Site Tag (gtag.js) - Google Analytics */}
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF3YR77RVH"></script>
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+              
+                gtag('config', 'G-LF3YR77RVH');
+              });
+            `,
+              }}
+            />
+
+
           </Head>
           <Loader id="loading" className={visibleLoader ? "" : "inActive"} />
           <div className="site-wrapper overflow-hidden" ref={eleRef}>
