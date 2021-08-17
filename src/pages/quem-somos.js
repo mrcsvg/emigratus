@@ -8,7 +8,6 @@ import imgC2 from "../assets/image/inner/about-content-2.png";
 import imgC3 from "../assets/image/inner/about-content-3.png";
 import imgC4 from "../assets/image/inner/about-content-4.png";
 import imgT1 from "../assets/image/inner/team/daniella.jpeg";
-import imgT2 from "../assets/image/inner/team/marcela.jpeg";
 import imgT3 from "../assets/image/inner/team/katya.jpeg";
 import imgT4 from "../assets/image/inner/team/jessica.jpeg";
 
@@ -161,19 +160,6 @@ const AboutPage = () => {
                     <h3 className="gr-text-7 mb-2">Katya Nolasco</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
                       Advogada especializada em Direito Migratório
-                    </p>
-                  </div>
-                </div>
-              </Col>
-              <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
-                <div className="team-card">
-                  <div className="card-image">
-                    <img src={imgT2} alt="" className="w-100" />
-                  </div>
-                  <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Marcela Gomes Batista</h3>
-                    <p className="gr-text-9 mb-0 line-height-1">
-                      Professora de Italiano e especialista em Cidadania Italiana
                     </p>
                   </div>
                 </div>
